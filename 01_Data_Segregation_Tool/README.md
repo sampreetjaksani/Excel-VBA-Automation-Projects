@@ -1,4 +1,4 @@
-![Project Cover](Project_Cover.png)
+![Project Cover](https://github.com/sampreetjaksani/Excel-VBA-Automation-Projects/blob/5c04ceccf30627c35efb237893067b9508a0a420/01_Data_Segregation_Tool/VBA%20Code.png)
 
 # Project 1 – Data Segregation Tool
 
