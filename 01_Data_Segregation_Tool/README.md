@@ -1,3 +1,5 @@
+![Project Cover](Project_Cover.png)
+
 # Project 1 – Data Segregation Tool
 
 ## Overview
@@ -18,5 +20,5 @@ This project automates the process of separating a master dataset into multiple 
 * Button Automation
 * Data Filtering
 * Workbook Management
-* ! [IMG ALT] (https://github.com/sampreetjaksani/Excel-VBA-Automation-Projects/blob/main/01_Data_Segregation_Tool/VBA%20Code.png?raw=true)
+
 
